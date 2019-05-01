@@ -3,7 +3,8 @@
 /**********************************************************************
  * GFORCE EMG ARMBAND EXAMPLE
  * Author: Davide Asnaghi
- * Date: April 3rd 2019
+ * Created: April 3rd 2019
+ * Modified: April 30th 2019
  * Requirements: 
  *    - ESP32 arduino libraries and boards
  *      https://github.com/espressif/arduino-esp32.git
