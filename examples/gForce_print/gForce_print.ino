@@ -5,8 +5,10 @@
  * Author: Davide Asnaghi
  * Date: April 3rd 2019
  * Requirements: 
- *    - ESP32 arduino (https://github.com/espressif/arduino-esp32.git)
- *    - ESP32 gForce library (https://github)
+ *    - ESP32 arduino libraries and boards
+ *      https://github.com/espressif/arduino-esp32.git
+ *    - ESP32 gForce library 
+ *      https://github.com/project-sparthan/sparthan-gforce.git
  **********************************************************************/
 
 #define PRINT_IMU     1
